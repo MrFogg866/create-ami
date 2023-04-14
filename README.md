@@ -15,7 +15,7 @@ The EC2 is used for creating the virtual server instance. The AMI is the EC2 vir
 
 ## Steps to Creating a AMI
 
-(IMAGE)
+![alt](img/ami.png)
 
 1. go to the aws console and type "EC2" in the search box
 2. select your running instance
