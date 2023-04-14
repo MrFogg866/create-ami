@@ -7,7 +7,8 @@
 ## What is AMI?
 
 
-##Difference between EC2 and AMI
+## Difference between EC2 and AMI
+
 The EC2 is used for creating the virtual server instance. The AMI is the EC2 virtual machine image.
 
 
